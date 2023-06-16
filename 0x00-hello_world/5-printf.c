@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
- * main - a program that prints text using print f
- * Return: zero
- * Description - print text 
+ * main - Entry point
+ * 
+ * Return: Always 0(Success) 
  */
 int main(void)
 {
