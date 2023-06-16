@@ -1,7 +1,7 @@
-#1nclude <stdio.h>
+#include <stdio.h>
 /**
  * main - a program that prints text using print f
- * Return : zero
+ * Return: zero
  * Description - print text 
  */
 int main(void)
