@@ -9,9 +9,6 @@
 	 */
 	int print_sign(int n)
 	{
-		/**
-		 *  Prints the sign of a number
-		 * */
 		if (n > 0)
 		{
 			_putchar('+');
